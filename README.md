@@ -2,7 +2,7 @@
 
 # Lucas Amaral
 
-### Senior Backend Software Engineer | .NET | Software Architecture | Applied AI
+### Senior Backend Software Engineer | .NET | Python | Software Architecture | Applied AI
 
 I build real software products for real business problems, combining backend engineering, clean architecture, automation, and applied AI.
 
@@ -26,7 +26,7 @@ I build real software products for real business problems, combining backend eng
 
 I work where software leaves the slide deck and starts making decisions easier, operations clearer, and products more useful.
 
-For the last **12+ years**, I have been building software with a strong focus on backend engineering, APIs, business rules, data, architecture, and systems that can evolve. Today, my work is centered on **C#/.NET**, **ASP.NET Core**, **Clean Architecture**, **DDD**, **PostgreSQL**, **Docker**, and practical AI applied to developer tools, automation, copilots, agents, RAG, and business workflows.
+For the last **12+ years**, I have been building software with a strong focus on backend engineering, APIs, business rules, data, architecture, and systems that can evolve. Today, my work is centered on **C#/.NET**, **ASP.NET Core**, **Python**, **Clean Architecture**, **DDD**, **PostgreSQL**, **Docker**, and practical AI applied to developer tools, automation, copilots, agents, RAG, and business workflows.
 
 My current positioning is simple:
 
@@ -37,7 +37,7 @@ My current positioning is simple:
 <table>
   <tr>
     <td><strong>Backend Engineering</strong></td>
-    <td>C#, .NET, ASP.NET Core, APIs, PostgreSQL, performance, integrations, and production-oriented design.</td>
+    <td>C#, .NET, ASP.NET Core, Python, APIs, PostgreSQL, performance, integrations, and production-oriented design.</td>
   </tr>
   <tr>
     <td><strong>Software Architecture</strong></td>

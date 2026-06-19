@@ -88,7 +88,7 @@ My current positioning is simple:
       <p><strong>Status:</strong> evolving.</p>
     </td>
     <td width="50%">
-      <h3>KM One Connect</h3>
+      <h3><a href="https://github.com/lucastrevvos/kmone-connect">KM One Connect</a></h3>
       <p><strong>Real backend used as a serious architecture base.</strong></p>
       <p>A .NET backend focused on Clean Architecture, DDD, APIs, PostgreSQL, performance, and a path toward higher scale.</p>
       <p><strong>Solves:</strong> backend architecture practice grounded in a real product domain, not an artificial exercise.</p>

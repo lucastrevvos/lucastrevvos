@@ -70,12 +70,12 @@ My current positioning is simple:
       <p><strong>Status:</strong> active product / evolving.</p>
     </td>
     <td width="50%">
-      <h3>Trevvos Forge</h3>
+      <h3><a href="https://github.com/lucastrevvos/trevvos-forge">Trevvos Forge</a></h3>
       <p><strong>Local-first AI tool for developers.</strong></p>
       <p>A CLI/dev tool designed to use local LLMs to inspect projects, generate plans, suggest diffs, and apply changes with control and safety.</p>
       <p><strong>Solves:</strong> developer productivity without giving up privacy, context, and local control.</p>
       <p><strong>Concepts:</strong> local-first AI, code analysis, planning, diff generation, safe change application, dev tooling.</p>
-      <p><strong>Status:</strong> building.</p>
+      <p><strong>Status:</strong> in development.</p>
     </td>
   </tr>
   <tr>

@@ -58,7 +58,7 @@ Trevvos Soluções em IA
 | Product | What it is | Problem it attacks | Direction |
 |---|---|---|---|
 | **KM One** | Product/app for app drivers | Knowing whether a ride is profitable using real parameters like value, distance, R$/km, fuel, displacement, goals, and profit | Active / evolving |
-| **Trevvos Forge** | Local-first AI CLI/dev tool | Helping developers analyze projects, generate plans, suggest diffs, and apply changes safely with local LLMs | Building |
+| **[Trevvos Forge](https://github.com/lucastrevvos/trevvos-forge)** | Local-first AI CLI/dev tool | Helping developers analyze projects, generate plans, suggest diffs, and apply changes safely with local LLMs | In development |
 | **Trevvos Flow** | Productivity, lists, and tasks app | Simple personal organization and collaboration, with room for future AI workflows | Evolving |
 | **KM One Connect** | Real .NET backend architecture project | Clean Architecture, DDD, APIs, PostgreSQL, performance, and high-scale evolution based on a real domain | Active foundation |
 | **ControlLar** | Personal finance product | Income, expenses, goals, reports, and future behavior-oriented AI insights | In development |

@@ -7,6 +7,12 @@
 I build real software products for real business problems, combining backend engineering, clean architecture, automation, and applied AI.
 
 <p>
+  <a href="https://trevvos.com.br">
+    <img src="trevvos%20logotipo.jpeg" alt="Trevvos Solucoes em IA" width="96" />
+  </a>
+</p>
+
+<p>
   <a href="https://www.linkedin.com/in/lucas-amaral-dev">
     <img src="https://img.shields.io/badge/LinkedIn-Lucas%20Amaral-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>

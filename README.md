@@ -2,9 +2,9 @@
 
 # Lucas Amaral
 
-### Backend .NET em formacao | Produtos com IA | C# | SQL | Azure
+### Senior Backend Developer | .NET | C# | SQL | Azure | Applied AI
 
-Estou reconstruindo minha trilha profissional com foco em backend .NET, fundamentos de desenvolvimento e produtos reais criados com apoio de IA.
+Tenho 12+ anos de experiencia em tecnologia e estou consolidando meu posicionamento publico como desenvolvedor backend senior com foco em .NET, produtos reais e IA aplicada.
 
 <p>
   <a href="https://www.linkedin.com/in/lucas-amaral-dev">
@@ -24,18 +24,18 @@ Estou reconstruindo minha trilha profissional com foco em backend .NET, fundamen
 
 ## Posicionamento
 
-Sou fundador da **Trevvos** e estou construindo uma trilha pratica para voltar ao mercado de tecnologia como desenvolvedor com foco em **C#/.NET, APIs, banco de dados e deploy em nuvem**.
+Sou fundador da **Trevvos** e atuo ha mais de 12 anos em tecnologia, com experiencia em sistemas, produtos digitais, regras de negocio, operacoes, automacao e construcao de solucoes para problemas reais.
 
-Meu diferencial atual e transformar ideias em produtos funcionais com apoio de IA, enquanto desenvolvo os fundamentos que sustentam esses produtos por tras: backend, regras de negocio, SQL, arquitetura, testes, Git e publicacao.
+Meu foco publico atual e **backend senior com .NET**: C#, ASP.NET Core, APIs, SQL, PostgreSQL, arquitetura, testes, Git, Docker e deploy em nuvem. A IA entra como acelerador de desenvolvimento, prototipacao, documentacao e analise, mas a responsabilidade tecnica continua sendo engenharia, criterio e fundamento.
 
-> IA acelera o prototipo. Fundamento tecnico transforma o prototipo em sistema.
+> Experiencia senior para entender o problema. .NET para construir a base. IA para acelerar o caminho.
 
 ## Foco Atual
 
 <table>
   <tr>
-    <td><strong>Backend .NET</strong></td>
-    <td>C#, ASP.NET Core, APIs REST, organizacao de camadas, validacoes, testes e evolucao de sistemas reais.</td>
+    <td><strong>Backend Senior .NET</strong></td>
+    <td>C#, ASP.NET Core, APIs REST, regras de negocio, organizacao de camadas, validacoes, testes e evolucao de sistemas reais.</td>
   </tr>
   <tr>
     <td><strong>Banco de Dados</strong></td>
@@ -43,24 +43,24 @@ Meu diferencial atual e transformar ideias em produtos funcionais com apoio de I
   </tr>
   <tr>
     <td><strong>Produtos Reais</strong></td>
-    <td>Trevvos, KM One e Flow como portfolio pratico, com frontends funcionais e backends em construcao.</td>
+    <td>Trevvos, KM One e Flow como portfolio pratico, com frontends funcionais e backends em construcao dentro do Trevvos Platform.</td>
   </tr>
   <tr>
     <td><strong>IA Aplicada</strong></td>
-    <td>Uso de IA para prototipacao, produtividade, documentacao, analise de codigo e construcao assistida.</td>
+    <td>Uso de IA para acelerar criacao de produto, documentacao, revisao, analise de codigo e fluxos de trabalho.</td>
   </tr>
   <tr>
     <td><strong>Mercado</strong></td>
-    <td>Certificacoes gratuitas, GitHub organizado, projetos demonstraveis e narrativa profissional clara.</td>
+    <td>GitHub organizado, projetos demonstraveis, certificacoes como validacao de base e narrativa profissional clara.</td>
   </tr>
 </table>
 
-## Trilha de Estudos
+## Trilha de Certificacoes
 
-Minha prioridade de estudo esta organizada por certificacoes e projetos praticos:
+Estou usando certificacoes como forma de validar fundamentos e organizar estudo continuo:
 
-1. **JavaScript Certification** - base para entender e manter os frontends existentes.
-2. **C# Certification** - linguagem principal da trilha backend .NET.
+1. **JavaScript Certification** - base para entender, manter e integrar frontends existentes.
+2. **C# Certification** - reforco publico da linguagem principal da trilha .NET.
 3. **Relational Databases** - SQL, PostgreSQL, modelagem e consultas.
 4. **Microsoft Azure Applied Skills** - publicacao, nuvem e ambiente real para projetos .NET.
 5. **Python Certification** - automacao, scripts, dados e apoio a fluxos com IA.
@@ -70,18 +70,18 @@ Minha prioridade de estudo esta organizada por certificacoes e projetos praticos
 <table>
   <tr>
     <td width="50%">
+      <h3>Trevvos Platform</h3>
+      <p><strong>Base principal do ecossistema Trevvos.</strong></p>
+      <p>Consolida os produtos, frontends e backends da Trevvos em uma estrutura unica de portfolio.</p>
+      <p><strong>Direcao tecnica:</strong> frontends em Angular, backends em .NET, banco relacional, APIs, autenticacao, deploy e documentacao.</p>
+      <p><strong>Status:</strong> linha principal de evolucao dos produtos Trevvos.</p>
+    </td>
+    <td width="50%">
       <h3>KM One</h3>
       <p><strong>Produto para motoristas de app analisarem se uma corrida vale a pena.</strong></p>
       <p>O KM One trabalha com preco, distancia, R$/km, combustivel, deslocamento, metas e contexto operacional.</p>
-      <p><strong>Meu objetivo tecnico:</strong> transformar o produto em uma API .NET com PostgreSQL, autenticacao, regras de negocio e deploy.</p>
-      <p><strong>Status:</strong> frontend mobile-first finalizado; backend sera construido manualmente como trilha de aprendizado.</p>
-    </td>
-    <td width="50%">
-      <h3><a href="https://github.com/lucastrevvos/trevvos-api">Trevvos API</a></h3>
-      <p><strong>Backend central da plataforma Trevvos.</strong></p>
-      <p>Base em .NET para portal, conteudo, leads, modulos internos e futuras integracoes dos produtos Trevvos.</p>
-      <p><strong>Aprendizado demonstrado:</strong> ASP.NET Core, estrutura de projetos, health check, Swagger, EF Core, PostgreSQL, Docker e testes.</p>
-      <p><strong>Status:</strong> fundacao arquitetural criada e em evolucao.</p>
+      <p><strong>Direcao tecnica:</strong> backend .NET com PostgreSQL, autenticacao, regras de negocio, sync mobile e API propria.</p>
+      <p><strong>Status:</strong> frontend mobile-first finalizado; backend sera construido manualmente como trilha tecnica.</p>
     </td>
   </tr>
   <tr>
@@ -89,20 +89,20 @@ Minha prioridade de estudo esta organizada por certificacoes e projetos praticos
       <h3>Flow</h3>
       <p><strong>Produto de organizacao, listas e tarefas.</strong></p>
       <p>Laboratorio para produtividade pessoal, listas compartilhadas e futuros fluxos inteligentes com IA.</p>
-      <p><strong>Meu objetivo tecnico:</strong> consolidar entidades, usuarios, permissoes, sincronizacao e API propria.</p>
+      <p><strong>Direcao tecnica:</strong> entidades, usuarios, permissoes, sincronizacao, API propria e evolucao gradual.</p>
       <p><strong>Status:</strong> em evolucao dentro do ecossistema Trevvos.</p>
     </td>
     <td width="50%">
       <h3><a href="https://github.com/lucastrevvos/eirene-nexus">Eirene Nexus</a></h3>
       <p><strong>Laboratorio tecnico de produto, arquitetura e seguranca.</strong></p>
-      <p>Ambiente de estudo mais avancado para simular uma empresa, produto SaaS, backend .NET, Angular, Docker e operacoes locais.</p>
-      <p><strong>Aprendizado demonstrado:</strong> arquitetura, documentacao, CI, seguranca de produto, integracoes e sistemas maiores.</p>
+      <p>Ambiente de estudo avancado para simular empresa, produto SaaS, backend .NET, Angular, Docker, CI e operacoes locais.</p>
+      <p><strong>Mostra:</strong> arquitetura, documentacao, seguranca de produto, automacao, integracoes e sistemas maiores.</p>
       <p><strong>Status:</strong> laboratorio publico de aprendizado autorizado.</p>
     </td>
   </tr>
 </table>
 
-## Stack em Desenvolvimento
+## Stack Principal
 
 **Backend e APIs**
 
@@ -133,11 +133,11 @@ Minha prioridade de estudo esta organizada por certificacoes e projetos praticos
 
 ## Como Estou Construindo
 
-- Primeiro, produtos funcionais que resolvem problemas reais.
-- Depois, backends em .NET feitos passo a passo, com entendimento de cada decisao.
-- Certificacoes entram como prova de base, nao como substituto de projeto.
-- GitHub sera organizado como portfolio: poucos projetos principais, bem documentados e com progresso claro.
-- IA entra como acelerador de criacao, revisao e aprendizado, mantendo responsabilidade tecnica humana.
+- Produtos funcionais primeiro, porque portfolio precisa mostrar utilidade real.
+- Backends .NET construidos com criterio, entendimento e dominio progressivo da stack.
+- Certificacoes como validacao de fundamentos, nao como substituto de experiencia.
+- GitHub organizado como vitrine senior: poucos projetos principais, bem explicados e conectados a problemas reais.
+- Repositorios legados mantidos como historico quando fazem sentido, mas fora da narrativa principal.
 
 ## GitHub Signal
 

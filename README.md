@@ -70,7 +70,7 @@ Estou usando certificacoes como forma de validar fundamentos e organizar estudo 
 <table>
   <tr>
     <td width="50%">
-      <h3>Trevvos Platform</h3>
+      <h3><a href="https://github.com/lucastrevvos/trevvos-platform">Trevvos Platform</a></h3>
       <p><strong>Base principal do ecossistema Trevvos.</strong></p>
       <p>Consolida os produtos, frontends e backends da Trevvos em uma estrutura unica de portfolio.</p>
       <p><strong>Direcao tecnica:</strong> frontends em Angular, backends em .NET, banco relacional, APIs, autenticacao, deploy e documentacao.</p>

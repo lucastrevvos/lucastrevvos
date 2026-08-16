@@ -13,7 +13,7 @@ Tenho 12+ anos de experiência em tecnologia e estou consolidando meu posicionam
   <a href="https://github.com/lucastrevvos">
     <img src="https://img.shields.io/badge/GitHub-lucastrevvos-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://trevvos.com.br">
+  <a href="https://www.trevvos.com.br">
     <img src="https://img.shields.io/badge/Trevvos-Produtos%20com%20IA-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Trevvos" />
   </a>
 </p>
@@ -70,11 +70,11 @@ Estou usando certificações como forma de validar fundamentos e organizar estud
 <table>
   <tr>
     <td width="50%">
-      <h3><a href="https://github.com/lucastrevvos/trevvos-platform">Trevvos Platform</a></h3>
+      <h3><a href="https://www.trevvos.com.br">Trevvos Platform</a></h3>
       <p><strong>Base principal do ecossistema Trevvos.</strong></p>
       <p>Consolida os produtos, frontends e backends da Trevvos em uma estrutura única de portfólio.</p>
       <p><strong>Direção técnica:</strong> frontends em Angular, backends em .NET, banco relacional, APIs, autenticação, deploy e documentação.</p>
-      <p><strong>Status:</strong> linha principal de evolução dos produtos Trevvos.</p>
+      <p><strong>Status:</strong> linha principal de evolução dos produtos Trevvos. <a href="https://github.com/lucastrevvos/trevvos-platform">Código no GitHub</a>.</p>
     </td>
     <td width="50%">
       <h3><a href="https://kmone.trevvos.com.br">KM One</a></h3>
@@ -153,7 +153,7 @@ Estou usando certificações como forma de validar fundamentos e organizar estud
 <p>
   <a href="https://www.linkedin.com/in/lucas-amaral-dev"><strong>LinkedIn</strong></a>
   ·
-  <a href="https://trevvos.com.br"><strong>Trevvos</strong></a>
+  <a href="https://www.trevvos.com.br"><strong>Trevvos</strong></a>
   ·
   <a href="https://github.com/lucastrevvos"><strong>GitHub</strong></a>
 </p>
